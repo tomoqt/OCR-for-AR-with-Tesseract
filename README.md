@@ -1,2 +1,2 @@
 # OCR-for-AR-with-Tesseract
-In this implementation, we developed a python executable to be called by a Unity vuforia app to automatically perform OCR and recognise identification numbers on military airplanes while performing AR-assisted maintenance procedures. 
+In this implementation, we developed a python executable to be called by a Unity vuforia app to automatically perform OCR and recognise identification numbers on military airplanes while performing AR-assisted maintenance procedures. This project was part of an application we developed during the course of the second semester of a master's degree, as a team of five people. The challenge was proposed and sponsored by Leonardo.  
